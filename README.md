@@ -16,7 +16,7 @@ Passionate problem solver from Brisbane, QLD looking to start a career in full-s
 * Dynamic and mobile-friendly Front-end applications developed with HTML5, CSS3, JavaScript, jQuery and Bootstrap
 * Helpful Back-end APIs developed with NodeJS, ExpressJS and MongoDB
 * Live demos at [mattdobie.com](http://www.mattdobie.com) and source code on [GitHub](https://github.com/matt-dobie)
-* See more details on my complete [Project List](http://www.mattdobie.com)
+* See more details on my complete [Project List](https://github.com/matt-dobie/my-resume/blob/master/project-list.md)
 
 ### Sales & Technical Assistant | Goldring Stylus
 2014 - 2017
@@ -53,7 +53,7 @@ The goal of this project was to create my own playable version of Tic-Tac-Toe, a
 ### NodeJS API Projects
 A selection of API microservices built with NodeJS, ExpressJS and MongoDB, and hosted on [Glitch](https://glitch.com/). These included a URL Shortener similar to TinyURL, and an Image Search API.
 
-###### See more on my complete [Project List](http://www.mattdobie.com)
+###### See more on my complete [Project List](https://github.com/matt-dobie/my-resume/blob/master/project-list.md)
 
 
 ## Education
