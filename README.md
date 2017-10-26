@@ -1,6 +1,6 @@
 # Matthew Dobie
 
-Passionate problem solver from Brisbane, QLD looking to start a career in full-stack web development. Very hard worker and extremely eager to learn new technologies.
+Full-stack developer and problem solver from Brisbane, QLD. High achieving Physics graduate from the University of Wollongong, who has transitioned into building responsive and user-friendly web applications, with a focus on the JavaScript stack. In particular, my Front-end projects focus on working with existing APIs to provide an intuitive user experience. Very hard worker and extremely eager to share my skills with others, while at the same time learning new technologies and frameworks.
 
 [Experience](#experience) |
 [Side Projects](#side-projects) |
@@ -11,12 +11,13 @@ Passionate problem solver from Brisbane, QLD looking to start a career in full-s
 
 ## Experience
 
-### Personal Web Projects
+### Personal Web Projects & Freelance Web Development
 2016 - Present
 * Dynamic and mobile-friendly Front-end applications developed with HTML5, CSS3, JavaScript, jQuery and Bootstrap
 * Helpful Back-end APIs developed with NodeJS, ExpressJS and MongoDB
-* Live demos at [mattdobie.com](http://www.mattdobie.com) and source code on [GitHub](https://github.com/matt-dobie)
-* See more details on my complete [Project List](https://github.com/matt-dobie/my-resume/blob/master/project-list.md)
+* Currently involved with updating the Goldring Stylus company website on WordPress, to include a modern design and a store with WooCommerce
+* See live demos at [mattdobie.com](http://www.mattdobie.com) and source code on [GitHub](https://github.com/matt-dobie)
+* See all of the projects on my complete [Project List](https://github.com/matt-dobie/my-resume/blob/master/project-list.md)
 
 ### Sales & Technical Assistant | Goldring Stylus
 2014 - 2017
@@ -36,7 +37,7 @@ Passionate problem solver from Brisbane, QLD looking to start a career in full-s
 ## Side Projects
 
 ### Portfolio Website
-As a student of web development looking to start a career in the field, it's vital to have my own space on the web to display any relevant projects that I've worked on. [This](http://mattdobie.com) is the third version of that portfolio site, hosted on GitHub Pages, and developed with HTML5, CSS3, Bootstrap 3, JavaScript and jQuery. The current version takes advantage of a responsive single page layout, which allows my work to be viewed on any device.
+As a developer, it's vital to have my own space on the web to display any relevant projects that I've worked on. [This](http://mattdobie.com) is the third version of that portfolio site, hosted on GitHub Pages, and developed with HTML5, CSS3, Bootstrap 3, JavaScript and jQuery. The current version takes advantage of a responsive single page layout, which allows my work to be viewed on any device.
 
 [Project Link](http://mattdobie.com) | [GitHub Repo](https://github.com/matt-dobie/matt-dobie.github.io)
 
@@ -69,7 +70,7 @@ A selection of API microservices built with NodeJS, ExpressJS and MongoDB, and h
 ### Full Stack Web Development Certification | freeCodeCamp
 2017 - Present
 * Completed a Front-end Development Certification at [freeCodeCamp](https://www.freecodecamp.org/matt-dobie) in Aug 2017 (see the certification at [https://www.freecodecamp.org/matt-dobie/front-end-certification](https://www.freecodecamp.org/matt-dobie/front-end-certification))
-* Certification included building projects with HTML5, CSS3, Bootstrap, JavaScript and jQuery, as well as the completion of dozens of algorithm challenges
+* Certification included building projects with HTML5, CSS3, Bootstrap, JavaScript and jQuery, as well as the completion of dozens of algorithm challenges. The projects in particular focused on working with existing APIs to provide an intuitive user experience
 * Currently learning Back-end technologies, including NodeJS, ExpressJS and MongoDB
 * All projects completed during this course are viewable at [mattdobie.com](http://www.mattdobie.com); source code on [GitHub](https://github.com/matt-dobie)
 
@@ -86,7 +87,7 @@ A selection of API microservices built with NodeJS, ExpressJS and MongoDB, and h
 
 Strong:  HTML5, SCSS, Bootstrap, JavaScript, jQuery, Git
 
-Knowledgeable:  NodeJS, ExpressJS, MongoDB, PHP, MySQL, WordPress
+Knowledgeable:  NodeJS, ExpressJS, MongoDB, WordPress, PHP, MySQL
 
 
 ## References
