@@ -135,7 +135,6 @@ An API that takes either a unix timestamp or a natural language date, and return
 ## Contact Me
 
 [Facebook](https://www.facebook.com/mattdobie23) |
-[Twitter](https://twitter.com/mattdobie) |
 [LinkedIn](https://www.linkedin.com/in/matthew-dobie/) |
 [GitHub](https://github.com/matt-dobie)
 
