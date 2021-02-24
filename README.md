@@ -30,7 +30,7 @@ Versioning and other tools: Git, SAML, Webpack, JIRA
 
 ## Experience
 
-## Developer | Squiz Australia
+### Developer | Squiz
 2019 - Present
 * Contributed Government site template and Chatbot plugin to the Squiz Marketplace - a library of resuable templates/components to increase development efficiency
 * Awarded for being the most active user of the Squiz Marketplace for the 1st quarter of 2020
@@ -39,7 +39,7 @@ Versioning and other tools: Git, SAML, Webpack, JIRA
 * Developed complex payment integrations that increased operating efficiency for multiple stakeholders
 * Presented showcases on a number of technical topics to internal developers to be a part of a growing knowledge base across the company
 
-## Junior Front End Developer | Squiz Australia
+### Junior Front End Developer | Squiz
 2017 - 2019
 * Responsible for 'cutting up' design files into static websites with HTML/SCSS/JavaScript
 * Implemented large scale websites and components on the Squiz Matrix CMS for a variety of clients in the government and higher education sectors
