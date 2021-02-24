@@ -45,7 +45,7 @@ Versioning and other tools: Git, SAML, Webpack, JIRA
 * Implemented large scale websites and components on the Squiz Matrix CMS for a variety of clients in the government and higher education sectors
 * Consistently received praise from team leads for thorough internal QA feedback and as-built documentation of components
 
-### Personal Web Projects & Freelance Web Development
+### Personal Web Projects
 2016 - 2017
 * Built many dynamic and mobile-friendly Front-end applications with HTML5, CSS3, SASS, JavaScript, jQuery and Bootstrap (eg. Weather App, Tic-Tac-Toe, Random Quote Generator and many more)
 * Created helpful Back-end APIs developed with NodeJS, ExpressJS and MongoDB (eg. URL Shortener)
