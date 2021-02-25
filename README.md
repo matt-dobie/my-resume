@@ -14,14 +14,12 @@ GitHub: https://github.com/matt-dobie<br>
 
 ## Summary
 
-Full-stack developer and problem solver located in Brisbane, QLD, who loves to build responsive and user-friendly web applications, with a focus on the JavaScript stack. In particular, my Front-end projects focus on working with existing APIs to provide an intuitive and accessible user experience. Very hard worker and extremely eager to share my skills with others, while at the same time learning new technologies and frameworks. 
+Full-stack developer and problem solver located in Brisbane, QLD, who loves to build responsive, accessible and user-friendly web applications, with a focus on the JavaScript stack. Very hard worker and extremely eager to share my skills with others, while at the same time learning new technologies and frameworks. 
 
 
 ## Technical Skills
 
-Web Technologies/Frameworks:  HTML5, SASS, ReactJS, VueJS, PHP, NodeJS
-
-Scripts/UI: JavaScript, jQuery, Bootstrap
+Web Technologies/Frameworks:  HTML5, SASS, JavaScript, jQuery, Bootstrap, ReactJS, VueJS, PHP, NodeJS
 
 Squiz Products: Matrix CMS, Funnelback, Neo Template, Datastore, Transform
 
@@ -41,7 +39,7 @@ Versioning and other tools: Git, SAML, Webpack, JIRA
 
 ### Junior Front End Developer | Squiz
 2017 - 2019
-* Responsible for 'cutting up' design files into static websites with HTML/SCSS/JavaScript
+* Responsible for 'cutting up' design files into pixel-perfect static websites with HTML/SCSS/JavaScript
 * Implemented large scale websites and components on the Squiz Matrix CMS for a variety of clients in the government and higher education sectors
 * Consistently received praise from team leads for thorough internal QA feedback and as-built documentation of components
 
