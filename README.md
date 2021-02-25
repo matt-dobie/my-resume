@@ -31,7 +31,7 @@ Versioning and other tools: Git, SAML, Webpack, JIRA
 ### Developer | Squiz
 2019 - Present
 * Contributed Government site template and Chatbot plugin to the Squiz Marketplace - a library of resuable templates/components to increase development efficiency
-* Awarded for being the most active user of the Squiz Marketplace for the 1st quarter of 2020
+* Awarded for being the most active user of the Squiz Marketplace for the first quarter of 2020
 * Collaborated with technical leads and developers across the company to improve the developer experience with deployment of the Squiz Neo Website Template
 * Acted as Technical Consultant, working closely with a variety of stakeholders to lead the technical development of their projects. This included estimates, workshops and writing of functional specifications
 * Developed complex payment integrations that increased operating efficiency for multiple stakeholders
